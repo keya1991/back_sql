@@ -1,0 +1,54 @@
+;;; 
+Export: Release 23.0.0.0.0 - Production on Jue Ago 28 20:18:34 2025
+Version 23.7.0.25.01
+
+Copyright (c) 1982, 2025, Oracle and/or its affiliates.  All rights reserved.
+;;; 
+Conectado a: Oracle Database 23ai Free Release 23.0.0.0.0 - Develop, Learn, and Run for Free
+Iniciando "HR_ADMIN"."SYS_EXPORT_SCHEMA_01":  hr_admin/********@Aula21pc10:1521/freepdb1 schemas=hr_admin directory=github dumpfile=hr_backup.dump logfile=hr_backup.log; 
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/TABLE_DATA
+Procesando el tipo de objeto SCHEMA_EXPORT/PACKAGE/PACKAGE_BODY
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/INDEX_STATISTICS
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/STATISTICS/TABLE_STATISTICS
+Procesando el tipo de objeto SCHEMA_EXPORT/USER
+Procesando el tipo de objeto SCHEMA_EXPORT/SYSTEM_GRANT
+Procesando el tipo de objeto SCHEMA_EXPORT/ROLE_GRANT
+Procesando el tipo de objeto SCHEMA_EXPORT/DEFAULT_ROLE
+Procesando el tipo de objeto SCHEMA_EXPORT/PRE_SCHEMA/PROCACT_SCHEMA/LOGREP
+Procesando el tipo de objeto SCHEMA_EXPORT/SYNONYM/SYNONYM
+Procesando el tipo de objeto SCHEMA_EXPORT/SEQUENCE/SEQUENCE
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/TABLE
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/GRANT/OWNER_GRANT/OBJECT_GRANT
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/COMMENT
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/IDENTITY_COLUMN
+Procesando el tipo de objeto SCHEMA_EXPORT/PACKAGE/PACKAGE_SPEC
+Procesando el tipo de objeto SCHEMA_EXPORT/FUNCTION/FUNCTION
+Procesando el tipo de objeto SCHEMA_EXPORT/PROCEDURE/PROCEDURE
+Procesando el tipo de objeto SCHEMA_EXPORT/PACKAGE/COMPILE_PACKAGE/PACKAGE_SPEC/ALTER_PACKAGE_SPEC
+Procesando el tipo de objeto SCHEMA_EXPORT/FUNCTION/ALTER_FUNCTION
+Procesando el tipo de objeto SCHEMA_EXPORT/PROCEDURE/ALTER_PROCEDURE
+Procesando el tipo de objeto SCHEMA_EXPORT/VIEW/VIEW
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/INDEX/INDEX
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/CONSTRAINT/CONSTRAINT
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/CONSTRAINT/REF_CONSTRAINT
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/TRIGGER
+. . "HR_ADMIN"."INSTRUCTORS"                      6.4 KB       2 filas exportadas
+. . "HR_ADMIN"."PARKING_LOT"                      6.1 KB      16 filas exportadas
+. . "HR_ADMIN"."EMPLOYEES"                       18.9 KB     109 filas exportadas
+. . "HR_ADMIN"."LOCATIONS"                        8.6 KB      23 filas exportadas
+. . "HR_ADMIN"."JOB_HISTORY"                      7.3 KB      10 filas exportadas
+. . "HR_ADMIN"."JOBS"                             7.3 KB      23 filas exportadas
+. . "HR_ADMIN"."DEPARTMENTS"                      7.2 KB      27 filas exportadas
+. . "HR_ADMIN"."COUNTRIES"                        6.5 KB      28 filas exportadas
+. . "HR_ADMIN"."REGIONS"                          5.6 KB       6 filas exportadas
+. . "HR_ADMIN"."COURSES"                          8.4 KB      18 filas exportadas
+. . "HR_ADMIN"."EMPLOYEES_AUDIT"                    7 KB       3 filas exportadas
+. . "HR_ADMIN"."EMPLOYEES_COURSES"                6.5 KB       2 filas exportadas
+. . "HR_ADMIN"."MEMBERS"                          5.6 KB       2 filas exportadas
+. . "HR_ADMIN"."MENU"                               6 KB       3 filas exportadas
+. . "HR_ADMIN"."SALES"                            6.3 KB      16 filas exportadas
+La tabla maestra "HR_ADMIN"."SYS_EXPORT_SCHEMA_01" se ha cargado/descargado correctamente
+******************************************************************************
+El juego de archivos de volcado para HR_ADMIN.SYS_EXPORT_SCHEMA_01 es:
+  C:\BACK_SQL\HR_BACKUP.DUMP
+El trabajo "HR_ADMIN"."SYS_EXPORT_SCHEMA_01" ha terminado correctamente en Jue Ago 28 20:20:56 2025 elapsed 0 00:02:16
